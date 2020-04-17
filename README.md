@@ -1,11 +1,11 @@
-# Very short description of the package
+# make your life easier with magic! 
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/arashrasoulzadeh/magic.svg?style=flat-square)](https://packagist.org/packages/arashrasoulzadeh/magic)
 [![Build Status](https://img.shields.io/travis/arashrasoulzadeh/magic/master.svg?style=flat-square)](https://travis-ci.org/arashrasoulzadeh/magic)
 [![Quality Score](https://img.shields.io/scrutinizer/g/arashrasoulzadeh/magic.svg?style=flat-square)](https://scrutinizer-ci.com/g/arashrasoulzadeh/magic)
 [![Total Downloads](https://img.shields.io/packagist/dt/arashrasoulzadeh/magic.svg?style=flat-square)](https://packagist.org/packages/arashrasoulzadeh/magic)
 
-This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors.
+Magic tools for laravel 
 
 ## Installation
 
